@@ -25,24 +25,24 @@ Es necesario tener instaladas las siguientes herramientas en tu sistema (prefere
 
    git clone https://github.com/Ezequiel1889/argos_scan.git
 
-    cd argos_scan
+   cd argos_scan
 
    pip3 install -r requirements.txt
 
 💻 Uso
 Para iniciar la herramienta, simplemente ejecuta el archivo principal:
 
-   python3 main.py
+ python3 main.py
 
 📝 Ejemplo de Reporte
 
 La herramienta genera un archivo llamado informe_auditoria.txt que incluye:
 
-   Resumen de la fase de auditoría.
+Resumen de la fase de auditoría.
 
-   Estado del objetivo (Limpio/Vulnerable).
+Estado del objetivo (Limpio/Vulnerable).
 
-   Detalle de exploits sugeridos para los servicios detectados.
+Detalle de exploits sugeridos para los servicios detectados.
 
-                                                                       Desarrollado por: Ezequiel Flammini
-                                                                       Año: 2026
+   Desarrollado por: Ezequiel Flammini
+   Año: 2026
