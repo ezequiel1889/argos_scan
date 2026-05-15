@@ -1,0 +1,20 @@
+# --- Reportes de Auditoría ---
+# Ignora el archivo de resultados para que no se suban tus pruebas personales
+informe_auditoria.txt
+
+# --- Python ---
+# Ignora las carpetas de caché que genera Python al ejecutar los archivos
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Entornos Virtuales ---
+# Si usas venv o similares
+venv/
+env/
+
+# --- Otros ---
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
