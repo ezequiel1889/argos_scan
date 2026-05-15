@@ -24,7 +24,8 @@ Es necesario tener instaladas las siguientes herramientas en tu sistema (prefere
 1. Clona el repositorio:
 
    git clone https://github.com/Ezequiel1889/argos_scan.git
-   cd argos_scan
+
+    cd argos_scan
 
    pip3 install -r requirements.txt
 
